@@ -1,2 +1,6 @@
 *.main.c.swp
 *.o
+.clang-format-1
+.clang-format.2
+.clang-format.3
+.gitingore
